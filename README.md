@@ -1,23 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mohammed Nouman</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-nouman&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-nouman" /> </p>
+# Mohammed Nouman
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-nouman" alt="mohammed-nouman" /></a> </p>
+### Full Stack Developer from India
 
-- 🌱 I’m currently learning **React Js**
+<img src="https://media.tenor.com/-P-xeHYEY9QAAAAM/sad-pablo-lonely.gif" width="250"/>
 
-- 💬 Ask me about **Web Dev,Travelling and friendships**
+Building scalable web applications and continuously exploring modern technologies.
 
-- 📫 How to reach me **mohammednouman063@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## About Me
+
+- Full Stack Developer passionate about building impactful digital experiences
+- Interested in scalable backend systems and modern frontend architectures
+- Core Member at AWS Cloud Club MJCET
+- Hackathon Winner at HackRev 2025 🏆
+
+### Hobbies
+- 🏏 Cricket
+- 🏍️ Riding Motorcycles
+- 🎌 Watching Anime
+
+---
+
+## Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,react,express,nodejs,mongodb,postgresql,vscode" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🌐 Emiratiyo
+A modern web platform focused on clean UI and scalable architecture.
+
+🔗 https://emiratiyo.com
+
+---
+
+### 🌐 IEEE CIS MJCET
+Official website developed for IEEE CIS MJCET.
+
+🔗 https://ieeecismjcet.in
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-NOUMAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-NOUMAN&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/mohammed nouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed nouman" height="30" width="40" /></a>
-<a href="https://instagram.com/noumxn_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noumxn_05" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/mohammed-nouman-3320a7279/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/noumxn_05/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-nouman&show_icons=true&locale=en" alt="mohammed-nouman" /></p>
+<div align="center">
+
+### “Building products, learning constantly, and enjoying the journey.”
+
+</div>
