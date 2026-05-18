@@ -15,9 +15,15 @@ Building scalable web applications and continuously exploring modern technologie
 ## About Me
 
 - Full Stack Developer passionate about building impactful digital experiences
-- Interested in scalable backend systems and modern frontend architectures
-- Core Member at AWS Cloud Club MJCET
-- Hackathon Winner at HackRev 2025 🏆
+- Interested in AI Development and scalable web architectures
+- Serving IEEE CIS MJCET as the **Web Master** in the club's governing body
+
+### Achievements
+- 🏆 Winner at HackRev 2025
+- 🏆 Winner at HackGorge 2025
+- 🏆 Winner at Envisage 2025
+- 🏆 Winner at Envisage 2024
+- 🏆 Winner at Datanyx 2026
 
 ### Hobbies
 - 🏏 Cricket
