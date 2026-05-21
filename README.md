@@ -20,7 +20,7 @@ Building scalable web applications and continuously exploring modern technologie
 
 ### Achievements
 - 🏆 Winner at HackRev 2025
-- 🏆 Winner at HackGorge 2025
+- 🏆 Winner at HackForge 2025
 - 🏆 Winner at Envisage 2025
 - 🏆 Winner at Envisage 2024
 - 🏆 Winner at Datanyx 2026
